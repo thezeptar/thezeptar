@@ -42,7 +42,7 @@
         <summary><strong>My Projects</strong></summary>
         <br />
         <a href='https://github.com/Zepvil/Zepvil'>
-            <img width='198px' src='https://img.shields.io/badge/Portofolio-1c73ff.svg?&style=for-the-badge'></img>
+            <img width='198px' src='https://img.shields.io/badge/Portfolio-1c73ff.svg?&style=for-the-badge'></img>
         </a>
         <a href='https://github.com/Zepvil/ali-the-detective'>
             <img width='280px' src='https://img.shields.io/badge/Ali%20the%20Detective-32a852.svg?&style=for-the-badge'></img>
